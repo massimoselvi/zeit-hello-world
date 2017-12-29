@@ -5,5 +5,8 @@
   "repository": "https://github.com/massimoselvi/zeit-hello-world.git",
   "author": "Massimo Selvi",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "react": "^16.2.0"
+  }
 }
