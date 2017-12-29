@@ -1,0 +1,9 @@
+{
+  "name": "zeit-hello-world",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/massimoselvi/zeit-hello-world.git",
+  "author": "Massimo Selvi",
+  "license": "MIT",
+  "private": false
+}
